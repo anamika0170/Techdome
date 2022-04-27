@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Techdome/static/css/main.1055f0d1.css",
+    "main.css": "/Techdome/static/css/main.1e6d2f91.css",
     "main.js": "/Techdome/static/js/main.5f6d3f41.js",
     "static/js/787.2ea8f35f.chunk.js": "/Techdome/static/js/787.2ea8f35f.chunk.js",
     "static/media/pageNot.png": "/Techdome/static/media/pageNot.cf7b86579e6329427bc4.png",
     "static/media/logo.svg": "/Techdome/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Techdome/index.html",
-    "main.1055f0d1.css.map": "/Techdome/static/css/main.1055f0d1.css.map",
+    "main.1e6d2f91.css.map": "/Techdome/static/css/main.1e6d2f91.css.map",
     "main.5f6d3f41.js.map": "/Techdome/static/js/main.5f6d3f41.js.map",
     "787.2ea8f35f.chunk.js.map": "/Techdome/static/js/787.2ea8f35f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1055f0d1.css",
+    "static/css/main.1e6d2f91.css",
     "static/js/main.5f6d3f41.js"
   ]
 }
